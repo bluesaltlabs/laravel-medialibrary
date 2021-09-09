@@ -1,5 +1,5 @@
 {
-    "name": "spatie/laravel-medialibrary",
+    "name": "bluesaltlabs/laravel-medialibrary",
     "description": "Associate files with Eloquent models",
     "keywords": [
         "spatie",
@@ -9,11 +9,17 @@
         "images",
         "downloads",
         "cms",
-        "laravel"
+        "laravel",
+        "bluesaltlabs"
     ],
-    "homepage": "https://github.com/spatie/laravel-medialibrary",
+    "homepage": "https://github.com/bluesaltlabs/laravel-medialibrary",
     "license": "MIT",
     "authors": [
+        {
+            "name": "Luke Sontrop",
+            "email": "luke@bluesaltlabs.com",
+            "role": "Developer"
+        },
         {
             "name": "Freek Van der Herten",
             "email": "freek@spatie.be",
